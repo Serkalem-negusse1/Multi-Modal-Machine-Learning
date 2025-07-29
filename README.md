@@ -1,5 +1,5 @@
 # Multi-Modal-Machine-Learning
-### Project README: From Classification to Clustering - An End-to-End Machine Learning Project on the Iris Flower Dataset
+### From Classification to Clustering - An End-to-End Machine Learning Project on the Iris Flower Dataset
 
 This project, presented in a Jupyter Notebook titled "A\_Multi\_Modal\_ML.ipynb", demonstrates an end-to-end machine learning workflow using the Iris Flower Dataset. It covers various machine learning techniques, including classification, clustering, and dimensionality reduction.
 
